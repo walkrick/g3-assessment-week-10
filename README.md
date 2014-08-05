@@ -17,7 +17,7 @@ Then I see the about page
 <img src="project/01-home.png">
 <img src="project/02-about.png">
 
-** Anonymous user can create a gif
+**Anonymous user can create a gif**
 
 ```
 As an anonymous user
@@ -33,7 +33,7 @@ And I should see "Gif created successfully"
 <img src="project/03-new-gif.png">
 <img src="project/05-gif-created.png">
 
-** Anonymous user cannot create a gif without a url or a title
+**Anonymous user cannot create a gif without a url or a title**
 
 ```
 As an anonymous user
@@ -45,7 +45,7 @@ The I should see the errors messages shown in the mockup
 
 <img src="project/06-errors-as-list.png">
 
-** Anonymous user sees better error messages when a gif can't be saved
+**Anonymous user sees better error messages when a gif can't be saved**
 
 ```
 As an anonymous user
