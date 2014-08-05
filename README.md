@@ -2,7 +2,7 @@
 
 This assessment is about looking at gifs! Sort of.
 
-Your app will allow users to add to their favorite gifs along with a description/title.
+Your app will allow users to add to their favorite gifs along with a title.
 
 ## Stories
 **Anonymous user can view about page**
