@@ -15,9 +15,9 @@
         <text>Welcome</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Link" x="343" y="196" w="-1" h="-1" measuredW="47" measuredH="19" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Link" x="343" y="196" w="-1" h="-1" measuredW="45" measuredH="19" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>New%20Gif</text>
+        <text>New%20gif</text>
       </controlProperties>
     </control>
     <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="338" y="141" w="394" h="31" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1">
@@ -27,9 +27,9 @@
         <color>3700253</color>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="353" y="146" w="-1" h="-1" measuredW="144" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="353" y="146" w="-1" h="-1" measuredW="142" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Gif%20created%20successfully</text>
+        <text>gif%20created%20successfully</text>
       </controlProperties>
     </control>
     <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="343" y="230" w="193" h="117" measuredW="266" measuredH="161" zOrder="6" locked="false" isInGroup="-1">
