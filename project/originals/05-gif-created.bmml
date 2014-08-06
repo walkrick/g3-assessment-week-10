@@ -32,5 +32,11 @@
         <text>Gif%20created%20successfully</text>
       </controlProperties>
     </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="343" y="230" w="193" h="117" measuredW="266" measuredH="161" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Screen%2520Shot%25202014-08-06%2520at%25203.11.30%2520PM.png</src>
+        <text/>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
