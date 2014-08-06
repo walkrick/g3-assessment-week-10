@@ -15,9 +15,9 @@
         <text>Welcome</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Link" x="343" y="183" w="-1" h="-1" measuredW="47" measuredH="19" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Link" x="343" y="183" w="-1" h="-1" measuredW="45" measuredH="19" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>New%20Gif</text>
+        <text>New%20gif</text>
       </controlProperties>
     </control>
   </controls>
