@@ -1,6 +1,17 @@
 <h2>Welcome</h2>
+<p><%= flash[:notice] if flash[:notice] %></p>
+
 <div>
-<%= link_to "About", about_path %><br>
-<%= link_to "New gif", "/gif_tables/new" %>
+  <%= link_to "About", about_path %>
+  <br>
+  <%= link_to "New gif", "/gif_tables/new" %>
 
 </div>
+
+<% @gif_tables.each do |gif| %>
+
+
+  <div><%= gif.url %></div>
+  <div><%= gif.name %></div>
+
+<% end %>
