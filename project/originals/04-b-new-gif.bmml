@@ -10,29 +10,29 @@
         <text>New%20gif</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="460" y="249" w="-1" h="-1" measuredW="81" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::TextInput" x="420" y="168" w="208" h="-1" measuredW="198" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>http%3A//example.com/lazercat.gif</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::TextInput" x="420" y="208" w="208" h="-1" measuredW="74" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Lazer%20Cat</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="460" y="249" w="-1" h="-1" measuredW="81" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Create%20gif</text>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="365" y="171" w="-1" h="-1" measuredW="26" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="365" y="171" w="-1" h="-1" measuredW="26" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <text>URL</text>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="365" y="211" w="-1" h="-1" measuredW="26" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="365" y="211" w="-1" h="-1" measuredW="26" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Title</text>
-      </controlProperties>
-    </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="420" y="168" w="208" h="-1" measuredW="79" measuredH="26" zOrder="5" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::TextInput" x="420" y="208" w="208" h="-1" measuredW="79" measuredH="26" zOrder="6" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text/>
       </controlProperties>
     </control>
   </controls>

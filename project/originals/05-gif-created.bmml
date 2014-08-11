@@ -38,5 +38,10 @@
         <text/>
       </controlProperties>
     </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="343" y="353" w="-1" h="-1" measuredW="60" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Lazer%20Cat</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
